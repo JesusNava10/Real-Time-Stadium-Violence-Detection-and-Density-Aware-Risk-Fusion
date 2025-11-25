@@ -64,7 +64,7 @@ def draw_global_risk_window(risk_level, bat_count, density_level):
 
 def main():
     """Runs the complete video-processing pipeline: detection, density, risk fusion, logging, and visualization."""
-    video_path = os.path.abspath("videos/prueba4_restaurado.mp4")
+    video_path = os.path.abspath("videos/prueba1_restaurado.mp4")
     cap = cv2.VideoCapture(video_path)
 
     if not cap.isOpened():
