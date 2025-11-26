@@ -55,8 +55,8 @@ Before running the system, **you MUST download the dataset, the trained model, a
 
 All necessary files are available in the following OneDrive folder:
 
-🔗 **Download from OneDrive:**  
-https://winliveudlap-my.sharepoint.com/:f:/r/personal/jesus_navacn_udlap_mx/Documents/Datasets%20and%20Weights?csf=1&web=1&e=NMapuU
+🔗 **Download from Drive:**  
+[https://winliveudlap-my.sharepoint.com/:f:/r/personal/jesus_navacn_udlap_mx/Documents/Datasets%20and%20Weights?csf=1&web=1&e=NMapuU](https://drive.google.com/drive/folders/1kpI65Mdmzs2u5QN2Qpo6rSczJHebQkd8?usp=sharing)
 Inside the folder you will find:
 
 - `dataset/` → YOLOv10 dataset for retraining  
